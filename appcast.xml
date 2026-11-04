@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Schoolyg Parents – Appcast</title>
+
+    <item>
+      <title>Version 1.0.13 (Android)</title>
+      <description>• First release</description>
+      <pubDate>Wed, 04 Nov 2026 12:00:00 +0000</pubDate>
+      <enclosure
+        url="https://play.google.com/store/apps/details?id=awlyg.schoolyg.parents"
+        sparkle:version="1.0.13"
+        sparkle:os="android" />
+    </item>
+
+    <!-- TODO: replace the iOS URL with the App Store link once the app is published. -->
+    <item>
+      <title>Version 1.0.13 (iOS)</title>
+      <description>• First release</description>
+      <pubDate>Wed, 04 Nov 2026 12:00:00 +0000</pubDate>
+      <enclosure
+        url="https://apps.apple.com/"
+        sparkle:version="1.0.13"
+        sparkle:os="ios" />
+    </item>
+  </channel>
+</rss>
