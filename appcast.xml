@@ -13,13 +13,12 @@
         sparkle:os="android" />
     </item>
 
-    <!-- TODO: replace the iOS URL with the App Store link once the app is published. -->
     <item>
       <title>Version 1.0.0 (iOS)</title>
       <description>• First release</description>
       <pubDate>Wed, 04 Nov 2026 12:00:00 +0000</pubDate>
       <enclosure
-        url="https://apps.apple.com/"
+        url="https://apps.apple.com/app/id6831224862"
         sparkle:version="1.0.0"
         sparkle:os="ios" />
     </item>
